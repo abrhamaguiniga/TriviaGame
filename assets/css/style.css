@@ -1,0 +1,31 @@
+body{
+    padding:0;
+    margin:0;
+    border:0;
+    background-image:url("https://workstew.files.wordpress.com/2014/05/question-marks.jpg")
+}
+#heading{
+    color:red;
+    padding:0;
+    margin:0;
+    border:0;
+}
+#time-left{
+    font-size:24px;
+    color:goldenrod;
+}
+#responses{
+    background-color:whitesmoke;
+    
+}
+#quiz{
+    text-align:center ;
+    background-color: whitesmoke;
+}
+#submit-div{
+    background-color:whitesmoke;
+}
+#content{
+    background-color:whitesmoke;
+
+}
